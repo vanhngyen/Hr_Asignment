@@ -1,0 +1,13 @@
+package com.example.hrassignment;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HrAssignmentApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HrAssignmentApplication.class, args);
+    }
+
+}
